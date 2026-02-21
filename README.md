@@ -61,4 +61,4 @@ AICTE Internship Capstone Project
 
 ## 📸 Sample Output
 
-![Detection Result](output.png)
+![Detection Result](output)
