@@ -1,4 +1,5 @@
 AI-Based Smart Jewelry Theft Detection Using Computer Vision
+
 📌 Project Overview
 This project implements an AI-based real-time jewelry theft detection system using Computer Vision and YOLO object detection. The system monitors CCTV footage inside jewelry stores, detects jewelry items and human presence, tracks object movement, and generates alerts when suspicious activity is identified.
 
