@@ -58,3 +58,7 @@ Saisha Arora
 Manipal University, Jaipur
 
 AICTE Internship Capstone Project
+
+## 📸 Sample Output
+
+![Detection Result](output.png)
